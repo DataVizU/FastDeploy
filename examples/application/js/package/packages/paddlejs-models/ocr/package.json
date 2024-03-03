@@ -1,6 +1,6 @@
 {
   "name": "@paddle-js-models/ocr",
-  "version": "4.1.0",
+  "version": "4.1.1",
   "description": "",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
@@ -17,7 +17,7 @@
   "license": "ISC",
   "publishConfig": {
     "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://github.com/DataVizU/FastDeploy/"
   },
   "scripts": {
     "dev": "yalc publish --push",
