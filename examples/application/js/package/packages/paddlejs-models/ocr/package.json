@@ -21,7 +21,7 @@
   "license": "ISC",
   "publishConfig": {
     "access": "public",
-    "registry": "https://github.com/DataVizU/FastDeploy/"
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "dev": "yalc publish --push",
